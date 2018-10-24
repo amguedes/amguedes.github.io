@@ -23,6 +23,6 @@ Check my research activity in [ResearchGate](https://www.researchgate.net/profil
 
 
 #### Other interests
-Diversity | Teaching | Science Communication |
+Diversity, Teaching, Science Communication, Knowledge share
 
-Cooking without recipe | Gardening carnivorous plants | Travelling | Yoga | Living in the Sun
+Cooking without recipe, Gardening carnivorous plants, Travelling, Yoga, Living in the Sun
