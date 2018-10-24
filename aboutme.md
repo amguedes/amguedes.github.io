@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: In a nutshell
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ana Guedes. I am a biologist turned data scientist looking to bring experience in analytical research to data-driven companies and deliver short-term impact.
+I'll be posting ideas that I find interesting, learnings that I consider worth sharing and other miscellaneous topics, always related to data science. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+#### Work
 
-### my history
+I started my data science journey in [S2DS] (http://www.s2ds.org/), an excellent program to transform PhDs into business-desirable people. 
+I have joined Royal Mail in 2016 and have been working as a data scientist. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+#### Education
+
+I finished my PhD in [Bioengineering Systems by MIT-Portugal Program] (https://www.mitportugal.org/education/bioengineering-systems/doctoral-program) in 2016. In my thesis I focused on the analysis of the gene regulatory network underlying pluripotenciality in mouse embryonic stem cells. 
+
+
+#### Previous life
+
+In a previous life I was interested in stem cell research and developmental biology, whith a special obsession on the transcription factor Nanog. 
+Check my research activity in [ResearchGate] (https://www.researchgate.net/profile/Ana_Guedes9)
+
+
+#### Other interests
+Diversity | Teaching | Science Communication 
+Cooking without recipe | Gardening carnivorous plants | Travelling | Yoga | Living in the Sun
