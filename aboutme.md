@@ -4,7 +4,7 @@ title: About me
 subtitle: In a nutshell
 ---
 
-My name is Ana Guedes. I am a biologist turned data scientist looking to bring experience in analytical research to data-driven companies and deliver short-term impact.
+My name is Ana Guedes. I am a biologist turned data scientist looking to bring experience in analytical research to data driven companies and deliver short-term impact.
 I'll be posting ideas that I find interesting, learnings that I consider worth sharing and other miscellaneous topics, always related to data science! 
 
 
@@ -23,5 +23,6 @@ Check my research activity in [ResearchGate](https://www.researchgate.net/profil
 
 
 #### Other interests
-Diversity | Teaching | Science Communication 
+Diversity | Teaching | Science Communication
+
 Cooking without recipe | Gardening carnivorous plants | Travelling | Yoga | Living in the Sun
