@@ -17,13 +17,13 @@ baseurl: ""
 title: Ana Guedes, Data Scientist
 
 # Short description of your site
-description: Miscelaneous themes related to data science
+description: Miscelaneous themes somehow related to data science
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
