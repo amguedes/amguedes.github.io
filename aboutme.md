@@ -4,7 +4,7 @@ title: About me
 subtitle: In a nutshell
 ---
 
-![alt text](https://github.com/amguedes/amguedes.github.io/tree/master/img/smile-solid.svg") My name is Ana Guedes. I am a biologist turned data scientist looking to bring experience in analytical research to data-driven companies and deliver short-term impact.
+![image](https://github.com/amguedes/amguedes.github.io/tree/master/img/smile-solid.svg") My name is Ana Guedes. I am a biologist turned data scientist looking to bring experience in analytical research to data-driven companies and deliver short-term impact.
 I'll be posting ideas that I find interesting, learnings that I consider worth sharing and other miscellaneous topics, always related to data science! 
 
 
