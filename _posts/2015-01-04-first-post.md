@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Finally, this is my first post!
